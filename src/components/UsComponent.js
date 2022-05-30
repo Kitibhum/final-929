@@ -38,13 +38,13 @@ function Contact(props) {
                     <dl className="row p-1">
                         <dt className="col-6">No.1</dt>
                         <dt className="col-6">CSC105 Web Application Development</dt>
-                        <dd className="col-12">XXXXXXXXXXXXXX</dd>
+                        <dd className="col-12">Good website design for web dev!</dd>
                         <dt className="col-6">No.2</dt>
-                        <dt className="col-6">LNG222 ACADEMIC LISTENING AND SPEAKING IN INTERNATIONAL</dt>
-                        <dd className="col-12">$1,250,375</dd>
+                        <dt className="col-6">Lovely Breakout room!L</dt>
+                        <dd className="col-12">HeyHeyHeyy</dd>
                         <dt className="col-6">No.3</dt>
                         <dt className="col-6">CSC209 DATA STRUCTURES</dt>
-                        <dd className="col-12"> Somebodyyyyyyyyyyyyyyyyyy</dd>
+                        <dd className="col-12"> GoodGOodGOodGOod!</dd>
                     </dl>
                 </CardBody>
             </Card>
@@ -53,16 +53,14 @@ function Contact(props) {
                 <CardBody>
                     <dl className="row p-1">
                         <dt className="col-6">No.1</dt>
-                        <dt className="col-6">Color Out Of Space</dt>
-                        <dd className="col-12">After a meteorite lands in the front yard of their farm, Nathan Gardner and his family find
-                            themselves battling a mutant extraterrestrial organism that infects their minds and bodies.</dd>
+                        <dt className="col-6">Toy Story</dt>
+                        <dd className="col-12">Lovely toys and funny adventure.</dd>
                         <dt className="col-6">No.2</dt>
-                        <dt className="col-6">The Thing</dt>
-                        <dd className="col-12">A research team finds an alien being that has fallen from the sky and is starting to hunt them down.</dd>
+                        <dt className="col-6">Minions</dt>
+                        <dd className="col-12">Banana Bananana</dd>
                         <dt className="col-6">No.3</dt>
-                        <dt className="col-6">The Lighthouse</dt>
-                        <dd className="col-12">In a remote island, Ephraim Winslow arrives as a lighthouse keeper and assists his elderly supervisor,
-                            Thomas Wake. As days pass, Winslow is haunted by strange and mysterious visions.</dd>
+                        <dt className="col-6">Spiderman</dt>
+                        <dd className="col-12">Funny Exciting and Thirlling Movie</dd>
                     </dl>
                 </CardBody>
             </Card>
@@ -72,13 +70,13 @@ function Contact(props) {
                     <dl className="row p-1">
                         <dt className="col-6">No.1</dt>
                         <dt className="col-6">CSC105 Web Application Development</dt>
-                        <dd className="col-12">I really love this subject because at this time at this moment i take the Examination of this subject and maybe MAYBE the prof.wll have some sympathy for me and for this massage and pray to god. love Warinthon</dd>
+                        <dd className="col-12">This subject make me know how to be a good web developers so i hope it will very useful for me at the future. </dd>
                         <dt className="col-6">No.2</dt>
                         <dt className="col-6">LNG222 ACADEMIC LISTENING AND SPEAKING IN INTERNATIONAL</dt>
-                        <dd className="col-12">Easy to collect some mark and very enjoyanble class it just fun time</dd>
+                        <dd className="col-12">Improving English with Breakout Room!!!!</dd>
                         <dt className="col-6">No.3</dt>
                         <dt className="col-6">CSC209 DATA STRUCTURES</dt>
-                        <dd className="col-12"> Somebodyyyyyyyyyyyyyyyyyy</dd>
+                        <dd className="col-12"> Good and Fun to learning but the exam is so Hardd!</dd>
                     </dl>
                 </CardBody>
             </Card>
